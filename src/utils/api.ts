@@ -1,7 +1,7 @@
 import { Movie, Series, ApiResponse, User, LoginResponse, FormattedSeason } from '../types';
 
 // Configuration de l'URL de base
-const API_BASE_URL = 'https://piwiflix-api.vercel.app'; 
+const API_BASE_URL = 'https://piwi-api.vercel.app'; 
 
 
 
